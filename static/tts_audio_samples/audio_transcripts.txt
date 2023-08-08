@@ -1,0 +1,5 @@
+North Sámi male voice, text: "Dohko bohtet olbmot ja duddjojit buot lágan dujiid ja mii guossohit gáfe, ságastallat dujiid birra ja deaivvadit nuppiiguin."
+
+North Sámi female voice, text: “Raportta mielde ulbmilin lea maid geahpedit boazodoalu ja eará eanageavaheami ruossalasvuođaid sihke sihkkarastit guohtoneatnamiid ceavzilis anu.”
+
+Lule Sámi male voice, text: “Divvun, sáme duollatjállemvædtsak, le dal ásaduvvam stuoves årnigin Tråmså universitiehtan.”
